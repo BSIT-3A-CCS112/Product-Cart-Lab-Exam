@@ -1,12 +1,15 @@
 Case Study: Building an E-commerce Platform with React and Laravel API
+
 Background: You are a software engineer working for a company that specializes in e-commerce
 solutions. The company has decided to develop a new e-commerce platform called BetaMart to
 streamline the process of buying and selling products online. The platform will consist of a front-end
 application built with React and a back-end API developed with Laravel to handle data management and
 business logic.
+
 Objective: The objective of this project is to create a functional e-commerce platform where users can
 browse products, add items to their cart, view their cart, remove items from their cart, and complete the
 checkout process.
+
 Requirements:
 1. Front-End Application (React):
 
